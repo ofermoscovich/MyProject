@@ -29,8 +29,8 @@ Following the important strings/links:
  
 ------------------------------------- 
  * In order to active the SELECT, INSERT links you need first to login using the Login link.
- * web.xml need to include the app package as follow: 
- //<param-value>app</param-value>
+ * web.xml need to include the "app" package as follow: 
+ <param-value app /param-value>
 
 Take it from hear any way you want...
 
