@@ -13,7 +13,7 @@ This is a very basic Java 1.8 Template Web Server Starting Project, using: basic
 
 Was tested on JBoss and Tomcat 7 with Derby DB 10.10.2.0 jar.
 
-See links command to active *methods (Login, SELECT, INSERT) using the brawser, basic create table command.
+See links command to active *methods (Login, SELECT, INSERT) using the brawser and basic create table command.
 
 Following the important strings/links:
 -------------------------------------
