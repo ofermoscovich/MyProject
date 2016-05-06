@@ -31,6 +31,6 @@ Following the important strings/links:
  * In order to active the SELECT, INSERT links you need first to login using the Login link.
  * web.xml need to include the "app" package under "param-value" tag. 
 
-Take it from hear any way you want...
+Take it from here any way you want...
 
 Good luck.
