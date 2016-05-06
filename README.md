@@ -1,5 +1,15 @@
 # MyProject
-This is a very basic Java 1.8 Template Web Server Starting Project, using: basic Facade pattern, with one Web service, basic connection to DB, login method, Insert and retrieve (SELECT SQL) methods - all in 9 java files only included in one package - Easy installation.
+This is a very basic Java 1.8 Template Web Server Starting Project, using: basic Facade pattern, with one Web service, basic connection to DB, login method, Insert and retrieve (SELECT SQL) methods - all in 9 java files included in one package - Easy installation.
+
+	AdminFacade.java 
+	AdminService.java 
+	AppSystem.java 	
+	ClientFacade.java 
+	ConnectionPool.java 
+	Employee.java 
+	EmployeeDBDAO.javao
+	SysException.java 
+	Test.java
 
 Was tested on JBoss and Tomcat 7 with Derby DB 10.10.2.0 jar.
 
